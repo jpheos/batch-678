@@ -1,9 +1,8 @@
 # Relational Database & SQL
 
-### Gsheet
+### Gsheet with data
 
-[Gsheet with data]
-(https://docs.google.com/spreadsheets/d/1djPZfE53v0wZdbQTbxnA0xbUoH_tSwXesOhU6ZDkdbY/edit#gid=1693812373)
+(Gsheet with data)[https://docs.google.com/spreadsheets/d/1djPZfE53v0wZdbQTbxnA0xbUoH_tSwXesOhU6ZDkdbY/edit#gid=1693812373]
 
 ### For Opening the database
 
